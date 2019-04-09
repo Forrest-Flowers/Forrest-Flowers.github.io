@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Forrest Flowers",
-    "label": "C# Web Developer",
+    "label": "Full Stack C# Developer",
     "picture": "https://www.gravatar.com/avatar/41b83a25bac38bb0a759467d4d09820f?s=100",
     "email": "forrest.w.flowers@gmail.com",
-    "website": "[WIP]",
-    "summary": "",
+    "website": "https://kevincolten.com",
+    "summary": "A fresh out of bootcamp developer who loves a challenge.",
     "phone": "(512) 940-6405",
     "location": {
       "city": "Austin",
@@ -15,17 +15,17 @@
       {
         "network": "PDF Resume",
         "username": "Forrest Flowers",
-        "url": "[WIP]"
+        "url": "https://docs.google.com/document/d/e/2PACX-1vQCtzoWsUgI0sARqwd0XqrpI_fi9JwRaoaBMSSjPP6q72jJlY9R3u92paCfi288biqdlHM0oBD6O6qx/pub"
       },
       {
         "network": "GitHub",
         "username": "Forrest-Flowers",
-        "url": "https://github.com/kevincolten"
+        "url": "https://github.com/Forrest-Flowers"
       },
       {
         "network": "LinkedIn",
-        "username": "Forrest-Flowers",
-        "url": "https://www.linkedin.com/in/kevincolten/"
+        "username": "forrestflowers",
+        "url": "https://www.linkedin.com/in/forrestflowers/"
       },
       {
         "network": "Skype",
@@ -35,25 +35,41 @@
   },
   "work": [
     {
-      //"company": "",
-      //"position": "",
-      //"website": "",
-      //"startDate": "",
-      //"summary": " ",
-      //"highlights":
-    
-     ],
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+  ],
   "projects": [
     {
-      "name": "Roll Your Life Away",
+      "name": "Roll Your Life Away [Working Title]",
+      "description": "A tool for game masters and players of tabletop roleplaying games to find groups to play with and get games going!",
       "highlights": [
-        "A service for players and dungeon masters of tabletop games to find a group for whatever system they play."
+        "Social Media",
+        "Tools for TTRPGs",
+        "Built in C#, ASP.NET using Microsoft Entity Framework and SQL"
       ],
-      "keywords": [],
+      "keywords": [
+        "C#",
+        "ASP.NET",
+        "HTML/CSS",
+        "Microsoft Entity Framework",
+        "Gulp",
+        "SASS",
+        "Bootstrap",
+        "SQL"
+      ],
       "url": "https://forrest-flowers-gf.azurewebsites.net/",
-      "roles": [ "Owner" ],
-      "entity": "Startup[WIP]",
-      "type": "Web App"
+      "roles": [
+        "Creator",
+        "Maintainer"
+      ],
+      "entity": "Roll Your Life Away",
+      "type": "Web Application"
     },
   ],
   "skills": [
@@ -72,9 +88,13 @@
       "name": "Web Development",
       "keywords": [
         "HTML/CSS",
+        "Rails",
+        "Laravel",
         "Bootstrap",
         "MySQL/Sqlite",
-        "Authorization/Authentication"
+        "Authorization/Authentication",
+        "Gulp",
+        "SASS"
       ]
     },
     {
@@ -82,7 +102,7 @@
       "keywords": [
         "Git/GitHub",
         "Gulp",
-        "Sass"
+        "Microsoft Azure"
       ]
     }
   ]
