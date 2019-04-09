@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "Forrest Flowers",
+    "label": "C# Web Developer",
+    "picture": "https://www.gravatar.com/avatar/41b83a25bac38bb0a759467d4d09820f?s=100",
+    "email": "forrest.w.flowers@gmail.com",
+    "website": "[WIP]",
+    "summary": "",
+    "phone": "(512) 940-6405",
+    "location": {
+      "city": "Austin",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "PDF Resume",
+        "username": "Forrest Flowers",
+        "url": "[WIP]"
+      },
+      {
+        "network": "GitHub",
+        "username": "Forrest-Flowers",
+        "url": "https://github.com/kevincolten"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Forrest-Flowers",
+        "url": "https://www.linkedin.com/in/kevincolten/"
+      },
+      {
+        "network": "Skype",
+        "username": "forrestflowers"
+      }
+    ]
+  },
+  "work": [
+    {
+      //"company": "",
+      //"position": "",
+      //"website": "",
+      //"startDate": "",
+      //"summary": " ",
+      //"highlights":
+    
+     ],
+  "projects": [
+    {
+      "name": "Roll Your Life Away",
+      "highlights": [
+        "A service for players and dungeon masters of tabletop games to find a group for whatever system they play."
+      ],
+      "keywords": [],
+      "url": "https://forrest-flowers-gf.azurewebsites.net/",
+      "roles": [ "Owner" ],
+      "entity": "Startup[WIP]",
+      "type": "Web App"
+    },
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "C#",
+        "ASP .NET",
+        "HTML",
+        "CSS",
+        "SQL",
+        "SQLite"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML/CSS",
+        "Bootstrap",
+        "MySQL/Sqlite",
+        "Authorization/Authentication"
+      ]
+    },
+    {
+      "name": "Technologies",
+      "keywords": [
+        "Git/GitHub",
+        "Gulp",
+        "Sass"
+      ]
+    }
+  ]
+}
