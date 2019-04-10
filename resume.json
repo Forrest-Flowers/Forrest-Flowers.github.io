@@ -2,9 +2,9 @@
   "basics": {
     "name": "Forrest Flowers",
     "label": "Full Stack C# Developer",
-    "picture": "https://www.gravatar.com/avatar/41b83a25bac38bb0a759467d4d09820f?s=100",
+    "picture": "",
     "email": "forrest.w.flowers@gmail.com",
-    "website": "https://kevincolten.com",
+    "website": "https://forrest-flowers.github.io/",
     "summary": "A fresh out of bootcamp developer who loves a challenge.",
     "phone": "(512) 940-6405",
     "location": {
@@ -33,17 +33,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "summary": "",
-      "highlights": [
-      ]
-    }
-  ],
   "projects": [
     {
       "name": "Roll Your Life Away [Working Title]",
@@ -70,7 +59,7 @@
       ],
       "entity": "Roll Your Life Away",
       "type": "Web Application"
-    },
+    }
   ],
   "skills": [
     {
